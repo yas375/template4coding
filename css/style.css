@@ -1,0 +1,6 @@
+BODY{ background-color: #fff; font-family: Arial; font-size: 12px; color: #555;}
+A{text-decoration: none;}
+A:hover{text-decoration:underline;}
+TD, TH{ vertical-align:top;}
+.clear{ clear:both; overflow: hidden; font-size: 1px; height: 0px;}
+.auto-width{ width: auto!important}
